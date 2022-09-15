@@ -1,0 +1,9 @@
+{
+    "policies": [
+        {
+            "name": "Email Policy",
+            "fileName": "email-policy.js",
+            "description": "Email - Validation Domaine"
+        }
+    ]
+}
